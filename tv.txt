@@ -1,4 +1,9 @@
 五星体育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
+粤语,https://pull-l3-cny.douyincdn.com/live/47db30bcc65d3f652c69ad633117425f.m3u8
+CCTV16-4K,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
+CCTV16-4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
+咪咕体育4K，http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
+asd,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 芜湖新闻综合,http://live1.wuhubtv.com/channel1/sd/live.m3u8
 芜湖生活频道,http://live1.wuhubtv.com/channel2/sd/live.m3u8
