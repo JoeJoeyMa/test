@@ -1,3 +1,4 @@
+五星体育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 芜湖新闻综合,http://live1.wuhubtv.com/channel1/sd/live.m3u8
 芜湖生活频道,http://live1.wuhubtv.com/channel2/sd/live.m3u8
