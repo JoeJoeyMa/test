@@ -4,7 +4,7 @@ tv,http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?stbId=
 咪咕,https://mgsp-hyy.live.miguvideo.com/migu/sports/50zhenyhvivid03/221402/20221027/01.m3u8?msisdn=1652b3b38701c3b62010d8c817702521&mdspid=&spid=800033&netType=0&sid=7510086785&pid=2028597139&timestamp=20221122025153&Channel_ID=0132_10010001005&ProgramID=750943778&ParentNodeID=-99&assertID=7510086785&client_ip=119.133.7.109&SecurityKey=20221122025153&mvid=7510043261&mcid=500020&mpid=120000267868&playurlVersion=WX-A1-5.11.5-RELEASE&userid=1216910414&jmhm=1652b3b38701c3b62010d8c817702521&videocodec=h264&bean=mgspwww&mtv_session=236839d281fe0de01b4d00f9f1de5fe2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=96fc1404c865358129c29b3cb30788fb
 翡翠台HD,http://99.sc1970.xyz:8888/iptv/GDH.php?id=1350_4500
 明珠台HD,http://99.sc1970.xyz:8888/iptv/GDH.php?id=1351_4500
-CCTV2HD_1500,http://99.sc1970.xyz:8888/iptv/GDH.php?id=CCTV5_1500 http://106.52.165.141:8889/gd.php?id=1350_4500
+CCTV2HD_1500,http://99.sc1970.xyz:8888/iptv/GDH.php?id=CCTV5_1500
 广东体育HD,http://99.sc1970.xyz:8888/iptv/GDH.php?id=gdsportsHD_7000890/224/3221226300/index.m3u8?fmt=ts2hls
 广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 广州南国都市.1080P,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
